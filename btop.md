@@ -15,6 +15,6 @@
 #### 2.keys
 | keys | explain |
 |------|---------|
-| M    | Menu    |
+| m    | Menu    |
 | O    | Option  |
 | e    | tree    |
