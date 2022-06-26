@@ -17,4 +17,5 @@
 |------|---------|
 | m    | Menu    |
 | O    | Option  |
+| K    | kill    |
 | e    | tree    |
